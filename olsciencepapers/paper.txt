@@ -4,7 +4,7 @@
 "pdf" : "https://github.com/ayeshchamodye/eduhub/raw/main/olsciencepapers/2016-OL-SCIENCE-MARKING-SCHEME-SINHALA-MEDIUM.pdf"
   } ,
   {
-"name" : "2016 OL Science Marking Scheme sinhala" ,
+"name" : "2020 OL Science Marking Scheme sinhala" ,
 "pdf" : "https://github.com/ayeshchamodye/eduhub/raw/main/olsciencepapers/2020-OL-SCIENCE-MARKING-SCHEME-SINHALA-MEDIUM.pdf"
   } ,
    {
