@@ -10,5 +10,9 @@
    {
 "name" : "2016 OL Science part i" ,
 "pdf" : "https://github.com/ayeshchamodye/eduhub/blob/main/olsciencepapers/Science%202016%20OL%20i.pdf"
-  } 
+  } ,
+  {
+"name" : "2016 OL Science part ii" ,
+"pdf" : "https://github.com/ayeshchamodye/eduhub/blob/main/olsciencepapers/Science%202016%20OL%20ii.pdf"
+  }
 ]
