@@ -1,8 +1,0 @@
-[
-
-  {
-"name" : "Physics shortnotes" ,
-"pdf" : "https://github.com/ayeshchamodye/eduhub/blob/main/olsciencenotes/(Sc)%20All%20-%20Physics%20.pdf"
-  }
-
-]
