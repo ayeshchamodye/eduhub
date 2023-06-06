@@ -1,2 +1,11 @@
+[
 
-https://github.com/ayeshchamodye/eduhub/raw/main/alcombinedmaths/2013CombinedMaths1.pdf
+{
+
+"name" : "2013 AL Combined Maths part i sinhala" ,
+
+"pdf" : "https://github.com/ayeshchamodye/eduhub/raw/main/alcombinedmaths/2013CombinedMaths1.pdf"
+}
+
+]
+
